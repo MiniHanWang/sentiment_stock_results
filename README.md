@@ -1,5 +1,5 @@
 # sentiment_stock_results
-# which is the results of such projects:
+# which are the results of such projects:
 1、股票爬虫代码（https://github.com/luckanny111/stock__crawler__once.git）
 2、新浪股吧爬虫代码（https://github.com/luckanny111/sina_guba_crawler.git）
 3、词云代码（https://github.com/luckanny111/ciyun.git）
